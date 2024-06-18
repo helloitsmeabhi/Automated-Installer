@@ -1,0 +1,9 @@
+requests
+google.generativeai
+customtkinter
+tk
+pillow
+python-tkdnd
+tkinterdnd2
+
+
